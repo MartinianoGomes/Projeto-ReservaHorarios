@@ -1,2 +1,2 @@
-# ReservaHorarios
-Programa para reserva de horários de um laboratório de informática (LabProg) da UNIFESSPA.
+# ReservaHorarios - Program
+Programa para reserva de horários do laboratório de informática (LabProg) da UNIFESSPA.
