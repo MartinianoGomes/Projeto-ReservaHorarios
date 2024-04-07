@@ -1,2 +1,3 @@
-# ReservaHorarios - Program
-Programa para reserva de horários do laboratório de informática (LabProg) da UNIFESSPA.
+# Informações
+
+<p>Este projeto foi desenvolvido para solucionar o problema organizacional de reserva de horários para a utilização do Laboratório de Informática (LabProg) da Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA).</p>
